@@ -60,7 +60,7 @@ I&rsquo;ll do my best to get back to you with in 48 hours after receiving your e
 		<!-- Meta tags -->
 	  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
-		<title>Contact Me | Tesla theme</title>
+		<title>Contact Me | areg.me photography</title>
 
 		<!-- Load some fonts from Google's Font service -->
 		<link href='https://fonts.googleapis.com/css?family=Open Sans:400,300,800|Noto Serif|Arvo' rel='stylesheet' type='text/css'>
@@ -123,7 +123,7 @@ I&rsquo;ll do my best to get back to you with in 48 hours after receiving your e
 				<div id="title_wrapper">
 						<!-- Site Title -->
 						<h1 id="site_title" data-0="opacity: 1; top:0px;" data-600="opacity: 0; top: 80px;" data-anchor-target="#site_title">
-							Tesla theme
+							areg.me photography
 						</h1>
 
 						<!-- Site Slogan -->
@@ -225,7 +225,7 @@ I&rsquo;ll do my best to get back to you with in 48 hours after receiving your e
 				<div id="breadcrumb_container">
 					<i class="fa fa-folder-open-o"></i> <span id="breadcrumb"><ul><li><a href="../">Home</a>&nbsp;>&nbsp;</li><li><a href="./">Contact Me</a>&nbsp;>&nbsp;</li></ul></span>
 				</div>
-				&copy; 2014 Johnny Appleseed
+				&copy; Areg Manvelyan
 			</div>
 		</footer>
 
